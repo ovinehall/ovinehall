@@ -11,7 +11,6 @@
 - [spotify](https://open.spotify.com/user/hnusrlbrgcjyutzvr4bd8bulg) 
 - [soundcloud](https://soundcloud.com/combine_us)
 - [last.fm](https://www.last.fm/user/k3inm)
-- discord: keinm
 
 
 </p>
@@ -20,6 +19,6 @@
 
 ## # abt me
 
-<p> I'm 14 years old. I know Python, CSS, HTML, and some Java lol. I love reading books and listening to music and I hate going to school and talking to people I don't like. 
+<p> I love reading books and listening to music and I hate going to school and talking to people I don't like. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
